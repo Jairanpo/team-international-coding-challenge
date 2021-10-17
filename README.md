@@ -1,4 +1,4 @@
-## The following it's a code test made with the following requirements:
+## This is a code challenge made with the following requirements:
 
 ___
 
