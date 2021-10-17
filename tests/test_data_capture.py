@@ -1,15 +1,11 @@
 # Standard library:
-import pprint
 import unittest
 # -- -- -- -- -- -- -- -- -- -- -- -- -- --
 # Third party:
 # -- -- -- -- -- -- -- -- -- -- -- -- -- --
 # project:
 from data_capture import DataCapture
-
 # =============================================================================
-pp = lambda x, depth=6: pprint.PrettyPrinter(depth=depth).pprint(x)
-pf = pprint.pformat
 
 
 class TestDataCapture(unittest.TestCase):

@@ -1,15 +1,11 @@
 # -*- coding: utf-8 -*-
 # Standard library:
-import pprint
 from functools import wraps
-
 # -- -- -- -- -- -- -- -- -- -- -- -- -- --
 # Third party:
 # -- -- -- -- -- -- -- -- -- -- -- -- -- --
 # project:
 # =============================================================================
-pp = lambda x, depth=6: pprint.PrettyPrinter(depth=depth).pprint(x)
-pf = pprint.pformat
 
 
 def validate_int_only_arguments(fn):
