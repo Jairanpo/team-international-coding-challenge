@@ -1,4 +1,4 @@
-## This is a code challenge made with the following requirements:
+## Code challenge made with the following requirements:
 
 ___
 
