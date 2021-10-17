@@ -2,3 +2,4 @@ Lib
 .idea
 include
 __pycache__
+pyvenv.cfg
